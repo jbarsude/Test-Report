@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LoginQA" duration-ms="12995" started-at="2018-03-06T08:03:31Z" finished-at="2018-03-06T08:03:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12995" started-at="2018-03-06T08:03:31Z" finished-at="2018-03-06T08:03:44Z">
+      <class name="LoginQA">
+        <test-method status="PASS" signature="URL()[pri:0, instance:LoginQA@34340fab]" name="URL" is-config="true" duration-ms="7845" started-at="2018-03-06T13:33:31Z" finished-at="2018-03-06T13:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="clicklogin()[pri:0, instance:LoginQA@34340fab]" name="clicklogin" duration-ms="1600" started-at="2018-03-06T13:33:38Z" finished-at="2018-03-06T13:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklogin -->
+        <test-method status="PASS" signature="enteremail()[pri:0, instance:LoginQA@34340fab]" name="enteremail" duration-ms="241" started-at="2018-03-06T13:33:40Z" finished-at="2018-03-06T13:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteremail -->
+        <test-method status="PASS" signature="enterpassword()[pri:0, instance:LoginQA@34340fab]" name="enterpassword" duration-ms="200" started-at="2018-03-06T13:33:40Z" finished-at="2018-03-06T13:33:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterpassword -->
+        <test-method status="PASS" signature="clickSubmitbutton()[pri:0, instance:LoginQA@34340fab]" name="clickSubmitbutton" duration-ms="1558" started-at="2018-03-06T13:33:40Z" finished-at="2018-03-06T13:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSubmitbutton -->
+        <test-method status="PASS" signature="serchbutton()[pri:0, instance:LoginQA@34340fab]" name="serchbutton" duration-ms="1409" started-at="2018-03-06T13:33:42Z" finished-at="2018-03-06T13:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchbutton -->
+        <test-method status="PASS" signature="close()[pri:0, instance:LoginQA@34340fab]" name="close" is-config="true" duration-ms="123" started-at="2018-03-06T13:33:43Z" finished-at="2018-03-06T13:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- LoginQA -->
+    </test> <!-- Test -->
+  </suite> <!-- LoginQA -->
+</testng-results>
